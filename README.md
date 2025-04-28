@@ -15,6 +15,19 @@ The analysis is conducted in two stages: first, applying linear regression to as
 
 ---
 
+## Variables
+- HW5		      : Height-for-Age z score
+- MOMWEIGHT	  : Mother's weight in pounds		
+- BREASTFEED	: Duration of breastfeeding [still=still breastfeeding, <1=less than 1 year, b12=1-2 years, >2=more than 2 years]
+- WEALTHIND	  : Household wealth index [pst=poorest, pr=poorer, m=middle, rc=rich, rcst=richest]	
+- RESIDENCE	  : Type of place of residence [urban, rural]	
+- MOMAGE		  : Mother's age at birth of child
+- SEX		      : Sex of child [male, female]
+- MOMEDU		  : Mother’s highest educational level [Ne=no education, Pri=primary, SecH=secondary or higher]
+- LIVCHN		  : Number of living children [<3=less than 3, B34=3-4, >5=5 or more]
+
+---
+
 ## Result
 
 ### Model
@@ -36,3 +49,6 @@ Classification table resulting in an overall accuracy rate of 81.65%.
 - Using linear regression and categorizing the predicted HW5 scores, the correct classification rate was 81.13%, slightly lower than logistic regression’s 81.65%, indicating logistic regression provided slightly better classification in this case.
 
 ---
+
+## See Full Report
+[Full Report]()
