@@ -3,9 +3,9 @@
 ![Image](https://github.com/user-attachments/assets/f60daec5-3030-4d33-adc5-66e06ce706a7)
 ---
 ## Introduction
-a into discrete categories.
-- Both models defined SEX and RESIDENCE as not significant variables, but there are some differences in the other variables (shown by the table). Also, linear regression counted the interaction between LIVCHN and MOMWEIGHT in the model, while logistic regression did not.
-- Linear regression provides greater detail i
+- Children are classified as stunted if their height-for-age falls more than two standard deviations below the WHO growth standards; however, stunting exists along a continuum rather than a strict threshold (Onis & Branca, 2016).
+This study examines factors associated with children's height (expressed as z-scores) in sub-Saharan Africa, using data from 3,799 children under five years old. Key variables include maternal health (weight and age at childbirth), breastfeeding practices, household wealth, parental education, urban/rural residence, and number of siblings.
+The analysis is conducted in two stages: first, applying linear regression to assess continuous height outcomes; and second, using logistic regression by categorizing children as either stunted or not. The findings aim to shed light on how biological and social factors jointly influence child growth in regions where hunger and malnutrition remain pressing challenges.
 ---
 ## Result
 ### Model
