@@ -51,4 +51,4 @@ Classification table resulting in an overall accuracy rate of 81.65%.
 ---
 
 ## See Full Report
-[Full Report](https://github.com/alfian-mamab/Sub-Saharan_Child_Height/blob/main/Regression%20on%20Sub-Saharan%20Child%20Height.pdf)
+## [Full Report](https://github.com/alfian-mamab/Sub-Saharan_Child_Height/blob/main/Regression%20on%20Sub-Saharan%20Child%20Height.pdf)
